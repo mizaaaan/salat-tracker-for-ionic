@@ -14,7 +14,7 @@
     "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.salattracker.app",
+      "bundleIdentifier": "com.QXnr6e.PAuV",
       "buildNumber": "1",
       "infoPlist": {
         "CFBundleDisplayName": "Salat Tracker",
